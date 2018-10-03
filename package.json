@@ -1,0 +1,16 @@
+{
+  "name": "test-cafe-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome:headless",
+    "test:visual": "testcafe chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^0.20.5"
+  }
+}
