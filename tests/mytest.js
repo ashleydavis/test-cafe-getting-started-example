@@ -11,6 +11,5 @@ test('My first test', async t => {
     const articleHeader = await Selector('.result-content').find('h1');
 
     // Obtain the text of the article header
-    let headerText = await articleHeader.innerText;
-    console.log(headerText);
+    await t.expect(headerText).eql("Thank you, John Smith!");
 });
