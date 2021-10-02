@@ -2,6 +2,8 @@
 
 A example first test using Testcafe from the Testcafe Getting Started guide.
 
+[Click here to support my work](https://www.codecapers.com.au/about#support-my-work)
+
 To try it out:
 
 Clone this repo, open command line and change directory to the repo.
@@ -26,7 +28,7 @@ To list the local browsers you have available:
 
     npx testcafe -b
 
-## Resource
+## Resources
 
 - [Test cafe Getting Started](https://devexpress.github.io/testcafe/documentation/getting-started/) 
 - [Issue running first test](https://testcafe-discuss.devexpress.com/t/first-test-case-not-running/120/2)
